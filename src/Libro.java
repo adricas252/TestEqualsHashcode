@@ -1,5 +1,4 @@
 import java.util.Objects;
-
 public class Libro {
 
     private String titulo, autor;
